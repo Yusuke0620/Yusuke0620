@@ -4,7 +4,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# 🏃🏻‍♂️my skills
+# 🌱 my skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,nodejs,ruby,rails,)](https://skillicons.dev)
 
 <!---
