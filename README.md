@@ -1,3 +1,4 @@
+## 📊 Stat
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuke0620&show_icons=true&theme=radical&locale=ja)
 
 
