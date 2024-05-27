@@ -3,12 +3,12 @@
 
 
 ## 🌱 My Skills
-[![My Skills](https://skillicons.dev/icons?i=sass,js,nodejs,ruby,rails,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,js,nodejs,ruby,rails,docker,mysql,linux)](https://skillicons.dev)
 
 ### Sub Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,git,figma,ps,npm,gulp" width="20%" height="auto" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,figma,ps,npm,gulp,ubuntu" width="20%" height="auto" />
   </a>
 </p>
 
