@@ -3,7 +3,7 @@
 
 
 ## 🌱 My Skills
-[![My Skills](https://skillicons.dev/icons?i=sass,js,nodejs,ruby,rails,docker,mysql,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,js,p5js,nodejs,ruby,rails,docker,mysql,linux)](https://skillicons.dev)
 
 ### Sub Skills
 <p>
