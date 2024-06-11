@@ -1,6 +1,3 @@
-## 📊 Stat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuke0620&show_icons=true&theme=radical&locale=ja)
-
 
 ## 🌱 My Skills
 [![My Skills](https://skillicons.dev/icons?i=sass,js,p5js,nodejs,ruby,rails,docker,mysql,linux)](https://skillicons.dev)
