@@ -5,7 +5,7 @@
 ### Sub Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,git,figma,ps,npm,gulp,ubuntu" width="20%" height="auto" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,figma,ps,npm,ubuntu" width="20%" height="auto" />
   </a>
 </p>
 
