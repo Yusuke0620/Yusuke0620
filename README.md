@@ -1,10 +1,10 @@
 
 ## 🌱 My Skills
-[![My Skills](https://skillicons.dev/icons?i=sass,js,p5js,nodejs,ruby,rails,docker,mysql,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,js,p5js,nodejs,ruby,rails,docker,linux,postgres)](https://skillicons.dev)
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,git,figma,ps,npm,ubuntu" width="20%" height="auto" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,figma,ps,npm,ubuntu,vim,mysql" width="20%" height="auto" />
   </a>
 </p>
 
